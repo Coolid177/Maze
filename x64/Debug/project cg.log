@@ -1,0 +1,8 @@
+﻿  MazeHandler.cpp
+C:\Users\runer\Documents\UHasselt\informatica bach 2\Computer graphics\Project\Computer-graphics-project\Project code\project cg\MazeHandler.cpp(82,24): warning C4244: 'return': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\runer\Documents\UHasselt\informatica bach 2\Computer graphics\Project\Computer-graphics-project\Project code\project cg\MazeHandler.cpp(85,30): warning C4244: 'return': conversion from 'unsigned __int64' to 'float', possible loss of data
+  main.cpp
+C:\Users\runer\Documents\UHasselt\informatica bach 2\Computer graphics\Project\Computer-graphics-project\Project code\project cg\main.cpp(699,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\runer\Documents\UHasselt\informatica bach 2\Computer graphics\Project\Computer-graphics-project\Project code\project cg\MazeHandler.cpp(96): warning C4715: 'MazeHandler::spawnLocation': not all control paths return a value
+  project cg.vcxproj -> C:\Users\runer\Documents\UHasselt\informatica bach 2\Computer graphics\Project\Computer-graphics-project\Project code\project cg\x64\Debug\project cg.exe
